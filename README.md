@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pakka79
+- 👋 Hi, I’m @kraphs
 - 👀 I’m interested in stock
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
